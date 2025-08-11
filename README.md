@@ -1,1 +1,2 @@
 # Numpy-session
+### Upto Slicing
