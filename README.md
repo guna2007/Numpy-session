@@ -1,2 +1,2 @@
 # Numpy-session
-### Upto Slicing
+### By EDITH Team
